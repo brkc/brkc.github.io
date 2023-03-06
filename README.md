@@ -42,17 +42,10 @@ CSS • SASS • InVision • Figma<br> **Backend** — Node.js • C# • SQL<b
 - Developed custom software solutions for a clothing company (inventory
   prediction, customer service, etc).
 
-## Projects
+**SAS Senior Design Project**
 
-**Senior Design Project**, Quizard: Accessible Web Application for School
-Assignments
-
-- As project leader of a team of four, facilitated the creation of a web
-  application to better accommodate visually impaired students in the completion
-  of online school assignments.
-- Utilized Backbone.js and a minimal REST interface implemented in Node.js.
-- Sponsored and supervised under the direction of an accessibility team from
-  SAS.
+- Led the creation of a school exam platform with a special emphasis on
+  accessiblity.
 
 ## Education
 
