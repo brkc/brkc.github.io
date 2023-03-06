@@ -18,37 +18,30 @@ CSS • SASS • InVision • Figma<br> **Backend** — Node.js • C# • SQL<b
 
 - Working on AI Studio, a no-code AI software platform, written in TypeScript
   React. Some tools written in Node.js.
+- Implementing UX designs using Material UI with Figma as reference.
 - Working with a small team of UX designers and backend developers.
 - Created interactive inference page with image classification, object
   detection, semantic segmentation, statistics, and data visualization.
 - Created scalable dataset management tools that include labeling, annotations,
   etc.
-- Implementing UX designs using Material UI with Figma as reference.
 
 **EBSCO Information Systems**, Durham, NC<br> _Senior Software Engineer_
 (2018-2020)
 
 - Worked on one of several UI teams to create the next generation of EBSCOhost,
   a research platform used by millions.
-- Worked on an array of microservices, primarily edge/UI services utilizing AWS,
-  Spring Cloud, Node.js, and React.
 - Headed creation of company-wide UI component library for branding consistency.
-- Worked with UX designers using Invision.
 
 **Farragut Systems**, Durham, NC<br> _Software Developer_ (2014-2018)
 
 - Worked on an agile team to update a property tax application in biweekly
   sprints, and release to county governments.
-- Introduced concept of PRs, code review to development cycle.
-- Automated app deployment to test environments using PowerShell and Jenkins.
-- Movement toward modern web practices (TypeScript, React, WebAPI).
-- Updated outdated UI (using the Bootstrap framework and Sass).
+- Spearheaded company movement toward CI/CD and modernizing legacy apps.
 
 **Indera Mills**, Yadkinville, NC<br> _Programmer_ (2010-2014)
 
-- Developed C and Perl programs for SCO Unix to update proprietary binary files
-  for use in office applications (inventory prediction, customer service, etc).
-- Debugged and corrected existing C programs using gdb.
+- Developed custom software solutions for a clothing company (inventory
+  prediction, customer service, etc).
 
 ## Projects
 
