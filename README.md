@@ -5,6 +5,13 @@
 
 Seeking challenging full-time employment in software engineering.
 
+## Skills
+
+**Frontend** — JavaScript (ES6) • TypeScript • React • Redux • jQuery • HTML5 •
+CSS • SASS • InVision • Figma<br> **Backend** — Node.js • C# • SQL<br>
+**Devops** — Python • Perl • bash • C • Git/SVN • Jenkins • AWS<br>
+**Management** — Jira • Azure DevOps
+
 ## Experience
 
 **Blaize Inc.**, Cary, NC (Remote)<br> _Web Application Developer_ (2020-)
@@ -59,10 +66,5 @@ Assignments
 
 **North Carolina State University** (2011-2014), Raleigh, NC<br> Bachelor of
 Computer Science
-
-## Skills
-
-React • JavaScript (ES6) • TypeScript • jQuery • C# • SQL • HTML/CSS/Sass • C •
-Perl • bash • Git/SVN
 
 <link href="style.css" rel="stylesheet">
