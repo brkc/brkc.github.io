@@ -8,9 +8,8 @@ Seeking challenging full-time employment in software engineering.
 ## Skills
 
 **Frontend** — JavaScript (ES6) • TypeScript • React • Redux • jQuery • HTML5 •
-CSS • SASS • InVision • Figma<br> **Backend** — Node.js • C# • SQL<br>
-**Devops** — Python • Perl • bash • C • Git/SVN • Jenkins • AWS<br>
-**Management** — Jira • Azure DevOps
+CSS • SASS • InVision • Figma<br> **Backend** — Node.js • C# • SQL<br> **Misc.**
+— Python • Perl • bash • C • Git/SVN • Jenkins • AWS • Jira • Azure DevOps<br>
 
 ## Experience
 
