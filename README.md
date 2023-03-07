@@ -39,8 +39,8 @@ CSS • SASS • InVision • Figma<br> **Backend** — Node.js • C# • SQL<b
 
 **Indera Mills**, Yadkinville, NC<br> _Programmer_ (2010-2014)
 
-- Developed custom software solutions for a clothing company (inventory
-  prediction, customer service, etc).
+- Developed clothing company software (inventory prediction, customer service,
+  etc).
 
 **SAS Senior Design Project**
 
