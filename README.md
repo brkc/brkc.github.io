@@ -3,7 +3,7 @@
 <a href="mailto:brandon.coffman@gmail.com">brandon.coffman@gmail.com</a>
 [github.com/brkc](https://github.com/brkc)
 
-Seeking challenging full-time employment in software engineering.
+Frontend engineer with 9+ years experience specializing in React and Node.js.
 
 ## Skills
 
