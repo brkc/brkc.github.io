@@ -14,12 +14,8 @@ C • Git/SVN • Jenkins • AWS • Jira • Azure DevOps<br>
 
 ## Experience
 
-**Blaize Inc.**, Web Application Developer (2020-)<br> <small>Stack: React,
-Redux, JavaScript, TypeScript, Material UI, CSS, SASS, Figma, Node.js, Cypress,
-Jenkins</small>
-
-Working on AI Studio, a no-code AI software platform, written in TypeScript
-React. Some tools written in Node.js.
+**Blaize Inc.**, Web Application Developer (2020-)<br> Working on AI Studio, a
+no-code AI software platform for web. Frontend written in React.
 
 - Implementing UX designs using Material UI with Figma as reference.
 - Created interactive inference page with image classification, object
@@ -27,11 +23,8 @@ React. Some tools written in Node.js.
 - Created scalable dataset management tools that include labeling, annotations,
   etc.
 
-**EBSCO Information Systems**, Senior Software Engineer (2018-2020)<br>
-<small>Stack: React, Redux, JavaScript, TypeScript, CSS, SASS, InVision,
-Node.js, LoopBack, Express.js, Jest, Jenkins</small>
-
-Created the next generation of EBSCOhost, a research platform used by millions.
+**EBSCO Information Systems**, Senior Software Engineer (2018-2020)<br> Created
+the next generation of EBSCOhost, a research platform used by millions.
 
 **Farragut Systems**, Software Developer (2014-2018)<br> Modernized and
 maintained property tax application used by half of NC property tax base.
