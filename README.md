@@ -26,6 +26,10 @@ no-code AI software platform for web. Frontend written in React.
 **EBSCO Information Systems**, Senior Software Engineer (2018-2020)<br> Created
 the next generation of EBSCOhost, a research platform used by millions.
 
+- Primarily worked on UI/edge services utilizing React, Node.js, Spring Cloud,
+  and AWS.
+- Led creation of company-wide UI component library.
+
 **Farragut Systems**, Software Developer (2014-2018)<br> Modernized and
 maintained property tax application used by half of NC property tax base.
 
