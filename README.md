@@ -32,20 +32,15 @@ InVision, Node.js, LoopBack, Express.js, Jest, Jenkins</small>
 
 Created the next generation of EBSCOhost, a research platform used by millions.
 
-**Farragut Systems**, Durham, NC<br> _Software Developer_ (2014-2018)
-
+**Farragut Systems**, Durham, NC<br> _Software Developer_ (2014-2018)<br>
 Modernized and maintained property tax application used by half of NC property
 tax base.
 
-**Indera Mills**, Yadkinville, NC<br> _Programmer_ (2010-2014)
+**Indera Mills**, Yadkinville, NC<br> _Programmer_ (2010-2014)<br> Developed
+clothing company software (inventory prediction, customer service, etc).
 
-Developed clothing company software (inventory prediction, customer service,
-etc).
-
-**SAS Senior Design Project**
-
-Led the creation of a school exam platform with a special emphasis on
-accessiblity.
+**SAS Senior Design Project**<br> Led the creation of a school exam platform
+with a special emphasis on accessiblity.
 
 ## Education
 
