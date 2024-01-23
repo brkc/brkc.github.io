@@ -1,6 +1,4 @@
-# Brandon Coffman
-
-<a href="mailto:brandon.coffman@gmail.com">brandon.coffman@gmail.com</a> •
+# Brandon Coffman (<a href="mailto:brandon.coffman@gmail.com">brandon.coffman@gmail.com</a>)
 [github.com/brkc](https://github.com/brkc)
 
 Frontend engineer based in Raleigh, NC with 9+ years experience specializing in
@@ -8,9 +6,9 @@ React and Node.js. Willing to relocate.
 
 ## Skills
 
-**Frontend** — JavaScript (ES6) • TypeScript • React • Redux • HTML5 • CSS •
-SASS<br> **Backend** — Node.js • C# • SQL<br> **Misc.** — Python • Perl • bash •
-C • Git/SVN • Jenkins • AWS • Jira • Azure DevOps<br>
+**Frontend** — JavaScript (ES6), TypeScript, React, Redux, HTML5, CSS,
+SASS<br> **Backend** — Node.js, C#, SQL<br> **Misc.** — Python, Perl, bash,
+C, Git/SVN, Jenkins, AWS, Jira, Azure DevOps<br>
 
 ## Experience
 
