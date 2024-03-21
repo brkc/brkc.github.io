@@ -7,9 +7,9 @@ specializing in React and Node.js.
 
 ## Skills
 
-**Frontend** — JavaScript (ES6), TypeScript, React, Redux, HTML5, CSS, SASS<br>
-**Backend** — Node.js, C#, SQL<br> **Misc.** — Python, Perl, bash, C, Git/SVN,
-Jenkins, AWS, Jira, Azure DevOps<br>
+**Frontend** — JavaScript (ES6), TypeScript, Angular, React, Redux, HTML5, CSS,
+SASS<br> **Backend** — Node.js, C#, SQL<br> **Misc.** — Python, Perl, bash, C,
+Git/SVN<br> **DevOps** - Jenkins, AWS, Kubernetes, Selenium, Kibana, DataDog
 
 ## Experience
 
