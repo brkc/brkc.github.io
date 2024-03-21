@@ -13,19 +13,18 @@ Jenkins, AWS, Jira, Azure DevOps<br>
 
 ## Experience
 
-**HedgeServ Ltd.** Engineer II (2023-)<br> Working on Valuations, an
-Angular-based UI to view/manage data sources for valuation/risk.
+**HedgeServ Ltd.** Engineer II (2023-)<br> Working on Valuations, a realtime UI
+to view/manage data sources for valuation/risk. Frontend written in
+Angular/ag-grid.
 
 - Implementing UX designs using Angular CDK with Adobe XD as reference.
-- Utilizing ag-grid library to display realtime data.
 - Created a realtime notification system for column breaches on preset limits.
 - Created a basket manager to associate instruments with custom data for display
   within the data grid.
 
-**Blaize Inc.**, Web Application Developer (2020-2023)<br> Created AI Studio,
-a no-code AI software platform for web. Frontend written in React.
+**Blaize Inc.**, Web Application Developer (2020-2023)<br> Created AI Studio, a
+no-code AI software platform for web. Frontend written in React.
 
-- Implemented UX designs using Material UI with Figma as reference.
 - Created interactive inference page with image classification, object
   detection, semantic segmentation, statistics, and data visualization.
 - Created scalable dataset management tools that include labeling, annotations,
