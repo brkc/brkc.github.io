@@ -2,8 +2,8 @@
 
 [github.com/brkc](https://github.com/brkc)
 
-Frontend engineer based in Raleigh, NC with 10 years hands-on experience
-specializing in React and Node.js.
+Experienced frontend developer passionate about technology with a 10-year proven
+track record of team collaboration to create exceptional user experiences.
 
 ## Skills
 
